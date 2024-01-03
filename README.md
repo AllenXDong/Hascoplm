@@ -12,6 +12,7 @@ SK2SoaCustomService
 - sa
 - cfm
 - bom
+![image](https://github.com/AllenXDong/Hascoplm/assets/96224835/b91bf1d2-ccbe-4589-a35b-88ae2058c4bb)
 
 ### 接口
 
