@@ -22,12 +22,11 @@ DownloadPDFInterface
 virtual std::string downloadAssemblyPDF( 
     const std::string input
      )=0;
+![image](https://github.com/AllenXDong/Hascoplm/assets/96224835/42fbb738-1283-4c48-8954-6a59c4155540)
 
-![image-20240103163839146](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20240103163839146.png)
 
 virtual std::string downloadCOPDF( 
     const std::string input
      )=0;
-
-![image-20240103163848778](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20240103163848778.png)
+![Uploading image.png…]()
 
